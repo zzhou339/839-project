@@ -1,0 +1,3 @@
+<name>Secretary</name> writes to inform Mr <name>Karswell</name> that it is impossible for him to give the name of any person or persons who were asked for an opinion on Mr <name>Karswell</name>'s paper on alchemy. <name>Secretary</name> also wishes to say that he cannot reply to any further letters on this matter．
+
+'And who is Mr <namE>Karswell</name>？'asked <name>Secretary</name>'s wife．She had called at his office and had just picked up and read the last of these letters．
