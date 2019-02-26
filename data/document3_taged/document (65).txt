@@ -1,0 +1,5 @@
+"Try the settee," said <name>Holmes</name>, relapsing into his armchair and putting his fingertips together, as was his custom when in judicial moods. "I know, my dear <name>Watson</name>, that you share my love of all that is bizarre and outside the conventions and humdrum routine of everyday life. You have shown your relish for it by the enthusiasm which has prompted you to chronicle, and, if you will excuse my saying so, somewhat to embellish so many of my own little adventures."
+
+"Your cases have indeed been of the greatest interest to me," I observed.
+
+"You will remember that I remarked the other day, just before we went into the very simple problem presented by Miss <name>Mary Sutherland</name>, that for strange effects and extraordinary combinations we must go to life itself, which is always far more daring than any effort of the imagination."

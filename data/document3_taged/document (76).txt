@@ -1,0 +1,8 @@
+
+"Off there to the right--somewhere--is a large island," said <name>Whitney</name>." It's rather a mystery--"
+
+"What island is it?" <name>Rainsford</name> asked.
+
+"The old charts call it `Ship-Trap Island,"' <name>Whitney</name> replied." A suggestive name, isn't it? <name>Sailors</name> have a curious dread of the place. I don't know why. Some superstition--"
+
+
