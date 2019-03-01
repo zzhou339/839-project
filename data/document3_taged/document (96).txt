@@ -1,7 +1,0 @@
-They entered the house. The soldiers and the police-officer unstrapped <name>Aksionov</name>'s luggage and searched it. Suddenly the officer drew a knife out of a bag, crying, "Whose knife is this?"
-
-<name>Aksionov</name> looked, and seeing a blood-stained knife taken from his bag, he was frightened.
-
-"How is it there is blood on this knife?"
-
-<name>Aksionov</name> tried to answer, but could hardly utter a word, and only stammered: "I--don't know--not mine." Then the police-officer said: "This morning the merchant was found in bed with his throat cut. You are the only person who could have done it. The house was locked from inside, and no one else was there. Here is this blood-stained knife in your bag and your face and manner betray you! Tell me how you killed him, and how much money you stole?"

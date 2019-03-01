@@ -1,8 +1,0 @@
-"What's that you got around your neck, <name>Ned</name>?" asked one of the men lying in the obscurity.
-
-<name>Ned</name>--or <name>Edmond</name>--mechanically fastened another button of his shirt and did not reply. He went on reading his letter.	
-
-"Is it your sweet heart's picture?"
-
-He had removed his tin cup and was engaged in stirring its grimy contents with a small stick. "That's a charm; some kind of hoodoo business that one o' them priests gave him to keep him out o' trouble. That's how come <name>Frenchy</name> got permoted an never got a scratch sence he's been in the ranks. Hey, <name>French</name>! aint I right?" <name>Edmond</name> looked up absently from his letter.
-

@@ -1,7 +1,0 @@
-<name>Jan</name> and <name>Katrina</name> are Dutch children. They live in a little blue house.
-Their house is near a big, brown windmill.
-The roof of their house is made of red tile.
-Near the chimney is a big stork’s nest.
-It is made of sticks and straw.
-<name>Jan</name> and <name>Katrina</name> like to watch the storks.
-They are glad when the little storks peep out of the nest.
